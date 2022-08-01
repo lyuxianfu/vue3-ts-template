@@ -1,7 +1,7 @@
 {
-  "name": "vue3-ts-template",
-  "private": true,
-  "version": "0.0.0",
+  "name": "<%= name %>",
+  "author": "<%= author %>",
+  "description": "<%= description %>",
   "type": "module",
   "scripts": {
     "dev": "vite",
